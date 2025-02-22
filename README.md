@@ -1,9 +1,3 @@
-# Tax Calculator CTF Challenge
-
-**Challenge Name**: Tax Calc!  
-**Designed By**: Aaron Hogan (@Conehead) - NCAE Cyber Games  
-**Points**: 250
-
 ## Challenge Description
 
 This CTF challenge requires you to calculate Marginal Income Tax based on provided tax form data. The calculation includes:
